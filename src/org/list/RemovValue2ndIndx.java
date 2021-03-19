@@ -17,5 +17,5 @@ public class RemovValue2ndIndx {
 		System.out.println(remove);
 		System.out.println("after removing value:"+l);
 	}
-
+//hany made changes
 }
