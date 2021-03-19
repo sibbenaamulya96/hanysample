@@ -13,6 +13,7 @@ public class GetValueForloop {
 		l.add(505);
 		l.add(605);
 		l.add(705);
+		//ammu change 3
 		l.add(805);
 		System.out.println(l);
 		for (int i = 0; i < args.length; i++) {
