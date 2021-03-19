@@ -16,7 +16,7 @@ public class IndxOfRepeated {
 		l.add(50);
 		
 		System.out.println(l);
-		
+		//ammu change 2
 			Integer integer = l.get(10);
 			System.out.println(integer);
 		}

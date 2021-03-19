@@ -18,6 +18,6 @@ public class IndxValueOf90 {
 		System.out.println(l);
 		int indexOf = l.indexOf(90);
 		System.out.println(indexOf);
-
+//ammu chng1
 }
 }
